@@ -1,4 +1,4 @@
-# skywalking-aliyunRocketMQ-plugin
+# skywalking-aliyunRocketMQ-plugin 由智慧普华挨踢团队提供
 
 提供追踪 aliyunRocketMQ 能力的 skywalking 插件, skywalking 版本 6.6.0, aliyunRocketMQ 版本 1.8.0.Final
 
@@ -10,9 +10,11 @@
 
 3. 在/apm-protocol/apm-network/org.apache.skywalking.apm.network.trace.component.ComponentsDefine
 加入常量      
-
-    public static final OfficialComponent ALIYUN_ROCKET_MQ_PRODUCER = new OfficialComponent(81, "aliyun-rocketMQ-producer");  
+```
+    public static final OfficialComponent ALIYUN_ROCKET_MQ_PRODUCER = new OfficialComponent(81, "aliyun-rocketMQ-producer");
+      
     public static final OfficialComponent ALIYUN_ROCKET_MQ_CONSUMER = new OfficialComponent(82, "aliyun-rocketMQ-consumer");
+```
 
 4. 在根目录下  mvn clean package -DskipTests -Pagent -Dcheckstyle.skip=true
 
