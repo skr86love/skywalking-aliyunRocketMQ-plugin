@@ -1,6 +1,6 @@
 # skywalking-aliyunRocketMQ-plugin
 
-提供追踪 aliyunRocketMQ 能力的 skywalking 插件, skywalking 版本 6.6.0.
+提供追踪 aliyunRocketMQ 能力的 skywalking 插件, skywalking 版本 6.6.0, aliyunRocketMQ 版本 1.8.0.Final
 
 使用方法  
 
