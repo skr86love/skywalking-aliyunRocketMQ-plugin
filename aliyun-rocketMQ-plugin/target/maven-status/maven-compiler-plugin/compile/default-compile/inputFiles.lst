@@ -1,0 +1,7 @@
+/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/src/main/java/org/apache/skywalking/apm/plugin/aliyunrocketmq/MessageSendInterceptor.java
+/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/src/main/java/org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ProduceMessageTransactionInstrumentation.java
+/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/src/main/java/org/apache/skywalking/apm/plugin/aliyunrocketmq/MessageTransactionSendInterceptor.java
+/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/src/main/java/org/apache/skywalking/apm/plugin/aliyunrocketmq/MessageConcurrentlyConsumeInterceptor.java
+/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/src/main/java/org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ConsumeMessageConcurrentlyInstrumentation.java
+/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/src/main/java/org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ProduceMessageInstrumentation.java
+/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/src/main/java/org/apache/skywalking/apm/plugin/aliyunrocketmq/AbstractMessageSendInterceptor.java

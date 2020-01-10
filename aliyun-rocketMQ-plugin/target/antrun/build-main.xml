@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <taskdef resource="net/sf/antcontrib/antcontrib.properties" classpathref="maven.runtime.classpath"/>
+  <if>
+    <equals arg2="jar" arg1="jar"/>
+    <then>
+      <mkdir dir="/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/target/../../../../skywalking-agent/plugins"/>
+      <copy file="/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/target/apm-aliyun-rocketMQ-plugin-6.2.0.jar" tofile="/Users/elvin/IdeaProjects/custom-skywalking/apm-sniffer/apm-sdk-plugin/aliyun-rocketMQ-plugin/target/../../../../skywalking-agent/plugins/apm-aliyun-rocketMQ-plugin-6.2.0.jar" overwrite="true"/>
+    </then>
+  </if>
+</target>
+</project>

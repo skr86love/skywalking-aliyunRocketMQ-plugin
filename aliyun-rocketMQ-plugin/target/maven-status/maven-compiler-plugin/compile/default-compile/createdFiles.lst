@@ -1,0 +1,10 @@
+org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ConsumeMessageConcurrentlyInstrumentation.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/AbstractMessageSendInterceptor.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ProduceMessageInstrumentation.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ProduceMessageTransactionInstrumentation$1.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/MessageTransactionSendInterceptor.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ProduceMessageInstrumentation$1.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ProduceMessageTransactionInstrumentation.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/MessageConcurrentlyConsumeInterceptor.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/define/ConsumeMessageConcurrentlyInstrumentation$1.class
+org/apache/skywalking/apm/plugin/aliyunrocketmq/MessageSendInterceptor.class
